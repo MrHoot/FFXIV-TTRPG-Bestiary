@@ -1,0 +1,54 @@
+{
+  "id": "ffxiv-ttrpg-bestiary",
+  "title": "FFXIV TTRPG Bestiary Compendia",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>Complete Bestiary for the FFXIV TTRPG, including encounters from the scenarios in the Starter pack, Player's book and Gamemaster book</p>",
+  "authors": [
+    {
+      "name": "Hoot",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "enemy-data",
+      "label": "Enemy Data",
+      "path": "packs/enemy-data",
+      "type": "Actor",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "ffxiv",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "ffxiv-ttrpg-core-rulebook-compendia",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "ffxiv-ttrpg-icons-pack",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
