@@ -11,6 +11,9 @@ as well as those included in the DLC scenarios that have been released online.
 - FFXIV TTRPG System for Foundry
 - AxeBane's FFXIV Compendia module
 
+## How to install
+Copy the following link in Foundry's manual install bar for modules: https://github.com/MrHoot/FFXIV-TTRPG-Bestiary/releases/download/v0.1.0/module.json
+
 ## Currently Included
 - All Beastkins
 - Scenario 4 enemies (The Beast Tamer's Flute)
