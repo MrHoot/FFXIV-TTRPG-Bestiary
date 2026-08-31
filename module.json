@@ -1,6 +1,6 @@
 {
   "id": "ffxiv-ttrpg-bestiary",
-  "title": "FFXIV TTRPG Bestiary Compendia",
+  "title": "FFXIV TTRPG Bestiary",
   "version": "0.1.0",
   "compatibility": {
     "minimum": "14",
@@ -50,5 +50,6 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "url": "https://github.com/MrHoot/FFXIV-TTRPG-Bestiary"
 }
