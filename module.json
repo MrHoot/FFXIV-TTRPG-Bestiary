@@ -1,6 +1,8 @@
 {
   "id": "ffxiv-ttrpg-bestiary",
   "title": "FFXIV TTRPG Bestiary",
+  "manifest": "https://github.com/MrHoot/FFXIV-TTRPG-Bestiary/releases/latest/download/module.json",
+  "download": "https://github.com/MrHoot/FFXIV-TTRPG-Bestiary/releases/download/v0.2.0/ffxiv-ttrpg-bestiary.zip",
   "version": "0.2.0",
   "compatibility": {
     "minimum": "14",
