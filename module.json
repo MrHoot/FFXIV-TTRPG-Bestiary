@@ -1,7 +1,9 @@
 {
   "id": "ffxiv-ttrpg-bestiary",
   "title": "FFXIV TTRPG Bestiary",
-  "version": "0.1.0",
+  "manifest": "https://github.com/MrHoot/FFXIV-TTRPG-Bestiary/releases/latest/download/module.json",
+  "download": "https://github.com/MrHoot/FFXIV-TTRPG-Bestiary/releases/download/v0.2.0/ffxiv-ttrpg-bestiary.zip",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -10,6 +12,12 @@
   "authors": [
     {
       "name": "Hoot",
+      "flags": {}
+    },
+    {
+      "name": "AxeBane",
+      "email": "https://github.com/AxeBane",
+      "discord": "@axebane (discord)",
       "flags": {}
     }
   ],

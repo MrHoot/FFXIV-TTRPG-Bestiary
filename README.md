@@ -12,7 +12,7 @@ as well as those included in the DLC scenarios that have been released online.
 - AxeBane's FFXIV Compendia module
 
 ## How to install
-Copy the following link in Foundry's manual install bar for modules: https://github.com/MrHoot/FFXIV-TTRPG-Bestiary/releases/download/v0.1.0/module.json
+Copy the following link into Foundry's manual module installation field: `https://github.com/MrHoot/FFXIV-TTRPG-Bestiary/releases/latest/download/module.json`
 
 ## Currently Included
 - All Beastkins
