@@ -1,0 +1,21 @@
+2026/09/01-09:47:01.847 3f74 Recovering log #58
+2026/09/01-09:47:01.848 3f74 Delete type=0 #58
+2026/09/01-09:47:01.851 3f74 Delete type=3 #56
+2026/09/01-09:47:01.861 5760 Level-0 table #62: started
+2026/09/01-09:47:01.861 5760 Level-0 table #62: 0 bytes OK
+2026/09/01-09:47:01.861 5760 Delete type=0 #60
+2026/09/01-09:47:01.861 5760 Manual compaction at level-0 from '\x00' @ 72057594037927935 : 1 .. '\xef\xbf\xbf' @ 0 : 0; will stop at '!actors.items.effects!sUNzg5gxmCaizrea.msFXlpBALxyzpmHl.OSj5rphwuorf74Ry' @ 1236 : 1
+2026/09/01-09:47:01.861 5760 Compacting 1@0 + 0@1 files
+2026/09/01-09:47:01.865 5760 Generated table #63@0: 134 keys, 94009 bytes
+2026/09/01-09:47:01.865 5760 Compacted 1@0 + 0@1 files => 94009 bytes
+2026/09/01-09:47:01.865 5760 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/01-09:47:01.865 5760 Delete type=2 #57
+2026/09/01-09:47:01.865 5760 Manual compaction at level-0 from '!actors.items.effects!sUNzg5gxmCaizrea.msFXlpBALxyzpmHl.OSj5rphwuorf74Ry' @ 1236 : 1 .. '\xef\xbf\xbf' @ 0 : 0; will stop at (end)
+2026/09/01-09:47:01.865 5760 Manual compaction at level-1 from '\x00' @ 72057594037927935 : 1 .. '\xef\xbf\xbf' @ 0 : 0; will stop at '!actors.items.effects!sUNzg5gxmCaizrea.msFXlpBALxyzpmHl.OSj5rphwuorf74Ry' @ 1236 : 1
+2026/09/01-09:47:01.865 5760 Compacting 1@1 + 1@2 files
+2026/09/01-09:47:01.870 5760 Generated table #64@1: 158 keys, 97202 bytes
+2026/09/01-09:47:01.870 5760 Compacted 1@1 + 1@2 files => 97202 bytes
+2026/09/01-09:47:01.870 5760 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/01-09:47:01.870 5760 Delete type=2 #53
+2026/09/01-09:47:01.870 5760 Delete type=2 #63
+2026/09/01-09:47:01.870 5760 Manual compaction at level-1 from '!actors.items.effects!sUNzg5gxmCaizrea.msFXlpBALxyzpmHl.OSj5rphwuorf74Ry' @ 1236 : 1 .. '\xef\xbf\xbf' @ 0 : 0; will stop at (end)
